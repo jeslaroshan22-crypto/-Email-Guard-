@@ -1,0 +1,30 @@
+{
+    "daraz_lk_safe_mask@emailguard.local": {
+        "service": "Daraz LK",
+        "real_email": "hello@gmail.com",
+        "status": "Active",
+        "hit_count": 0,
+        "created_at": "2026-09-30 02:14:20"
+    },
+    "netflix_safe_mask@emailguard.local": {
+        "service": "Netflix",
+        "real_email": "hello@gmail.com",
+        "status": "Active",
+        "hit_count": 0,
+        "created_at": "2026-09-30 07:03:02"
+    },
+    "linkedin_safe_mask@emailguard.local": {
+        "service": "LinkedIN",
+        "real_email": "jeslaroshan22@gmail.com",
+        "status": "Active",
+        "hit_count": 0,
+        "created_at": "2026-09-30 22:35:37"
+    },
+    "linkdin_safe_mask@emailguard.local": {
+        "service": "LinkDin",
+        "real_email": "jeslaroshan22@gmail.com",
+        "status": "Active",
+        "hit_count": 0,
+        "created_at": "2026-09-30 09:32:48"
+    }
+}
